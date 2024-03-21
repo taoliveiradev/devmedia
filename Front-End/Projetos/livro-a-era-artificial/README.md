@@ -9,4 +9,4 @@
 </ul>
 <p>Não abordarei a parte responsiva do CSS (adaptação para telas de celular).</p>
 <p>Não haverá navegação entre páginas do projeto, pois o intuito é exibir as informações de um produto, e para isso utilizarei uma única página.</p>
-<p>Para ver o Projeto<a href="https://devmedia.taoliveira.com.br/livro-a-era-digital" target="_blank"> clique aqui</a></p>
+<p>Para ver o Projeto<a href="https://devmedia.taoliveira.com.br/livro-a-era-artificial" target="_blank"> clique aqui</a></p>
