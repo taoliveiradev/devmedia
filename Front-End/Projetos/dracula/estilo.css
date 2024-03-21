@@ -1,0 +1,42 @@
+body {
+    background-color: #000000;
+}
+
+div {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid #ff1415;
+    padding: 30px 60px 80px 60px;
+}
+
+img {
+    width: 350px;
+}
+
+h1 {
+    color: #ff1415;
+    font-family: Impact;
+    font-size: 32px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+}
+
+p, a {
+    color: #ff1415;
+    font-family: Verdana;
+    font-size: 18px;
+}
+
+p {
+    margin-bottom: 80px;
+    line-height: 24px;
+}
+
+a {
+    text-decoration: none;
+    background-color: #ff1415;
+    color: #ffffff;
+    padding: 15px 40px;
+}
