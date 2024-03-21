@@ -1,0 +1,36 @@
+body{
+    background-color:#000000;
+    font-family: Verdana;
+}
+
+div {
+    width: 500px;
+    margin: 30px auto;
+}
+
+h1 {
+    font-size: 28px;
+    color: #ffffff;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    border: 5px solid #009200;
+}
+
+p, span {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+figcaption {
+    font-style: italic;
+    color: #ffffff;
+    font-size: 12px;
+}
+
+span {
+    border-left: 3px solid #009200;
+    border-bottom: 3px solid #009200;
+}
